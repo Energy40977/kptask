@@ -18,8 +18,6 @@ This is the place to add your feature files and your drivers (chromedriver in th
 
 ### What is the current example
 
-1. The driver goes to the El Tiempo website (a news site from Colombia, where I'm from).
-2. Clicks the Colombia option from the site menu.
-3. Validates that after the page redirection, the driver is located where it should.
-
-The behavior of the above example is very trivial however the point of this project is not to add a complex test scenario but instead represent an example of a POM implementation.
+1. The driver goes to the KitabEvim website (book selling site).
+2. Select a random book from main page.
+3. Add this book into basket and remove.
